@@ -1,0 +1,14 @@
+{
+  "hsToolsmith": true,
+  "title": "genai-cad-pipeline",
+  "pitch": "Generate CAD models from text prompts and store them in Azure with validation",
+  "language": "python",
+  "category": "Integration",
+  "keyFeatures": [
+    "Text‑to‑CAD generation using OpenAI or Stable Diffusion models",
+    "Automatic conversion to STEP, STL, and OBJ formats",
+    "Azure Blob storage upload with SAS token handling",
+    "Schema validation of generated geometry"
+  ],
+  "targetUsers": "Python developers building AI‑driven 3D design pipelines for manufacturing or architecture."
+}
